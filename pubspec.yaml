@@ -1,0 +1,21 @@
+name: color_gradient_slider
+description: A powerful and customizable WYSIWYG rich text editor for Flutter with HTML and Markdown support.
+version: 0.0.2
+homepage: https://github.com/chauhanvinay16/flutter_rich_text_editor
+
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/
+  uses-material-design: true
