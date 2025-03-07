@@ -4,7 +4,7 @@ A customizable gradient slider widget for Flutter. This widget allows you to cre
 
 ## Screenshot
 
-![Gradient Slider Screenshot](assets/images/screenshot.png)
+![Gradient Slider Screenshot](https://github.com/user-attachments/assets/d8808d13-a8f3-4faf-8501-5c722e6638d8)
 
 ## Features
 
